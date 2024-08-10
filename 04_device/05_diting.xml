@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project path="device/xiaomi/diting" name="android_device_xiaomi_diting" remote="device" />
+  <!-- Device Commpn Tree -->
+  <project path="device/xiaomi/sm8450-common" name="android_device_xiaomi_sm8450-common" remote="device" />
+  <!-- Kernel -->
+  <project path="kernel/xiaomi/sm8450" name="android_kernel_xiaomi_sm8450" remote="device" />
+</manifest>

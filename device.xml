@@ -12,4 +12,5 @@
   <include name="local_manifests/04_device/02_renoir.xml" />
   <include name="local_manifests/04_device/03_kumano.xml" />
   <include name="local_manifests/04_device/04_joan.xml" />
+  <include name="local_manifests/04_device/05_diting.xml" />
 </manifest>
